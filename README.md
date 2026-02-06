@@ -1,4 +1,4 @@
-# DNS-Enumeration-and-Zone-Transfer
+# DNS Enumeration and Zone Transfer
 DNS Enumeration Lab(ALX)
 "This repository contains my ALX lab work on DNS enumeration.
 Tools used: nslookup, dig.
